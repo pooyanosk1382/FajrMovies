@@ -1,3 +1,3 @@
-# IranianMovies
+# FajrMovies
 
-An analysis on Iranian movies.
+An analysis on Fajr festivals movies.
